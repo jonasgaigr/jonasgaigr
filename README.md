@@ -1,6 +1,6 @@
 Hi, I am Jonáš Gaigr.
 
-I am a conservationist at the <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>
+I am a conservationist at the Depertment of Biodiversity Monitoring of the <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>.
 
 - 🔭 I’m mainly working on an automatic system evaluating the condition of species and habitats in Czechia across scales, mainly covered by the <a href="https://github.com/jonasgaigr/host_naturecz/">host_naturecz</a> repository
 - 📫 How to reach me: jonas.gaigr@aopk.gov.cz
