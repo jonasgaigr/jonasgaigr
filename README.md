@@ -3,7 +3,7 @@ Hi, I am Jonáš Gaigr.
 I am a conservationist at the () <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>
 
 - 🔭 I’m mainly working on an automatic system evaluating the condition of species and habitats in Czechia across scales
-- 📫 How to reach me: jonas.gaigr@aopk.gov.cz
+- 📫 How to reach me: 📫jonas.gaigr@aopk.gov.cz 🦋jonasgaigr.bsky.social
 
 ### GitHub stats to keep my coding accountable
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgaigr)](https://github.com/anuraghazra/github-readme-stats)
