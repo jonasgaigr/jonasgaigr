@@ -6,7 +6,7 @@ I am a conservationist at the <a href="https://www.aopk.gov.cz">Nature Conservat
 - 📫 How to reach me: jonas.gaigr@aopk.gov.cz
 - 🦋 Where fo follow me: <a href="https://https://bsky.app/profile/jonasgaigr.bsky.social">jonasgaigr.bsky.social</a>
 
-### GitHub stats to keep my coding accountable
+### GitHub stats to watch my activity:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgaigr)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=jonasgaigr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+- 👯 I’m looking to collaborate on evaluating the 
 - ⚡ Fun fact: ...
 -->
