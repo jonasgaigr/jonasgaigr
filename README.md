@@ -1,3 +1,7 @@
+[![GitHub](https://img.shields.io/badge/GitHub-jonasgaigr-black?logo=github)](https://github.com/jonasgaigr)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0267--1382-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-0267-1382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jon%C3%A1%C5%A1%20Gaigr-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasgaigr/)
+
 Hi, I am Jonáš Gaigr.
 
 I am a conservationist at the Department of Biodiversity Monitoring of the <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>.
@@ -8,7 +12,7 @@ I am a conservationist at the Department of Biodiversity Monitoring of the <a hr
 - 🐸 If you are working on amphibian conservation in Europe, also don't hesitate to contact me – I am coordinating the BiodivPond pilot supported by the [Biodiversa+ partnership](https://www.biodiversa.eu/).
 - 🤔 I’m looking for help with future translation of R script within the <a href="https://github.com/jonasgaigr/host_naturecz/">host_naturecz</a> repository to SQL code
 - 📫 How to reach me: jonas.gaigr@aopk.gov.cz
-- 🦋 Where fo follow me: <a href="https://https://bsky.app/profile/jonasgaigr.bsky.social">jonasgaigr.bsky.social</a> or <a href="https://x.com/jonasgaigr">x.com/jonasgaigr</a>
+- 🦋 Where fo follow me: <a href="https://https://bsky.app/profile/jonasgaigr.bsky.social">jonasgaigr.bsky.social</a>, <a href="https://x.com/jonasgaigr">x.com/jonasgaigr</a> or [LinkedIn](https://www.linkedin.com/in/jon%C3%A1%C5%A1-gaigr-545a84150/)
 
 ### GitHub stats to watch my activity:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasgaigr)](https://github.com/anuraghazra/github-readme-stats)
