@@ -2,7 +2,7 @@ Hi, I am Jonáš Gaigr.
 
 I am a conservationist at the Department of Biodiversity Monitoring of the <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>.
 
-- 🔭 I mainly work on an automatic system evaluating the condition of species and habitats in Czechia across scales, mainly covered by the <a href="https://github.com/jonasgaigr/host_naturecz/">host_naturecz</a> repository
+- 🔭 I mainly work on an automatic system evaluating the condition of species and habitats in Czechia across scales, mainly covered by the <a href="https://github.com/BiodivMonCZ/host_naturecz/">host_naturecz</a> repository
 - 👯 I’m looking to collaborate on exploring biodiversity trends in Czechia, evaluating the condition of protected species and assessing the impacts of conservation interventions
 - 💩🐞 I’m also looking to collaborate on digging into faunistics of European dung beetles, especially the <a href="https://github.com/jonasgaigr/Dung_beetle_expansion">latitudinal shifts in their range</a>
 - 🐸 If you are working on amphibian conservation in Europe, also don't hesitate to contact me – I am coordinating the [BiodivPond pilot](https://github.com/BiodivPond/) supported by the [Biodiversa+ partnership](https://www.biodiversa.eu/).
