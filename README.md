@@ -3,9 +3,9 @@ Hi, I am Jonáš Gaigr.
 I am a conservationist at the Department of Biodiversity Monitoring of the <a href="https://www.aopk.gov.cz">Nature Conservation Agency of the Czech Republic</a>.
 
 - 🔭 I mainly work on an automatic system evaluating the condition of species and habitats in Czechia across scales, mainly covered by the <a href="https://github.com/BiodivMonCZ/host_naturecz/">host_naturecz</a> repository
+- 🐸 I am coordinating the [BiodivPond pilot](https://github.com/BiodivPond/) supported by the [Biodiversa+ partnership](https://www.biodiversa.eu/). If you are working on amphibian, bat, and aquatic invertebrate monitoring and conservation in Europe, also don't hesitate to contact me! Visit the [BiodivPond webpage](https://biodivpond.github.io) to find out more about the pilot.
 - 👯 I’m looking to collaborate on exploring biodiversity trends in Czechia, evaluating the condition of protected species and assessing the impacts of conservation interventions
 - 💩🐞 I’m also looking to collaborate on digging into faunistics of European dung beetles, especially the <a href="https://github.com/jonasgaigr/Dung_beetle_expansion">latitudinal shifts in their range</a>
-- 🐸 If you are working on amphibian conservation in Europe, also don't hesitate to contact me – I am coordinating the [BiodivPond pilot](https://github.com/BiodivPond/) supported by the [Biodiversa+ partnership](https://www.biodiversa.eu/).
 - 🤔 I’m looking for help with future translation of R script within the <a href="https://github.com/jonasgaigr/host_naturecz/">host_naturecz</a> repository to SQL code
 - 📫 How to reach me: jonas.gaigr@aopk.gov.cz
 - 🦋 Where fo follow me: <a href="https://https://bsky.app/profile/jonasgaigr.bsky.social">jonasgaigr.bsky.social</a>, <a href="https://x.com/jonasgaigr">x.com/jonasgaigr</a> or [LinkedIn](https://www.linkedin.com/in/jon%C3%A1%C5%A1-gaigr-545a84150/)
